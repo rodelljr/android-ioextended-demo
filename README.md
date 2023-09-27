@@ -10,14 +10,12 @@ Below are a series of screenshots that show this application supporting normal, 
 ### Phone
 <img src="https://github.com/rodelljr/android-ioextended-demo/blob/main/screenshots/phonelist.png" align="left" height="350" />
 <img src="https://github.com/rodelljr/android-ioextended-demo/blob/main/screenshots/phonedetail.png" align="right" height="350" />
-
+<br>
 ---
-
 ### Tablet
 <img src="https://github.com/rodelljr/android-ioextended-demo/blob/main/screenshots/tabletlistdetail.png" height="600" />
-
+<br>
 ---
-
 ### Foldable
 <img src="https://github.com/rodelljr/android-ioextended-demo/blob/main/screenshots/foldableopen.png" height="400" />
 <img src="https://github.com/rodelljr/android-ioextended-demo/blob/main/screenshots/foldableclosedlist.png" align="left" height="350" />
