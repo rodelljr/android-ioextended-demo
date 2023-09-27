@@ -13,7 +13,6 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.lazy.LazyColumn
-import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.lazy.itemsIndexed
 import androidx.compose.foundation.selection.selectable
 import androidx.compose.foundation.selection.selectableGroup
@@ -22,11 +21,9 @@ import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.ripple.rememberRipple
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
-import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.MaterialTheme.typography
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.platform.LocalContext
-import androidx.compose.ui.tooling.preview.Preview
 import com.roger.myapplication.helper.StateBirds
 import com.roger.myapplication.helper.getBirdCollection
 import androidx.compose.material3.Text
@@ -83,10 +80,10 @@ fun BirdList(context: Context = LocalContext.current,
 }
 
 @Composable
-fun BirdItem(bird: StateBirds, interact: Modifier) {
+fun BirdItem(bird: StateBirds, modifier: Modifier) {
     Card(
         modifier = Modifier
-            .then(interact)
+            .then(modifier)
             .fillMaxWidth(),
         colors = CardDefaults.cardColors(),
         shape = RoundedCornerShape(corner = CornerSize(16.dp))

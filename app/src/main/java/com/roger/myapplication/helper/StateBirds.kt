@@ -2,14 +2,10 @@ package com.roger.myapplication.helper
 
 import android.annotation.SuppressLint
 import android.content.Context
-import android.graphics.drawable.Drawable
-import androidx.compose.ui.platform.LocalContext
-import androidx.core.content.res.ResourcesCompat
 import com.google.gson.Gson
 import com.google.gson.annotations.Expose
 import com.google.gson.annotations.SerializedName
 import com.google.gson.reflect.TypeToken
-import com.roger.myapplication.R
 import java.io.IOException
 import java.io.Serializable
 
@@ -43,4 +39,3 @@ fun getBirdCollection(context: Context): List<StateBirds> {
 fun getDrawableFromName(state: String, context: Context ): Int {
     return context.resources.getIdentifier(state,"drawable", context.packageName)
 }
-//LocalContext.current

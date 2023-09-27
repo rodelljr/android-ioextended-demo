@@ -24,7 +24,6 @@ import com.google.accompanist.adaptive.FoldAwareConfiguration
 import com.google.accompanist.adaptive.HorizontalTwoPaneStrategy
 import com.google.accompanist.adaptive.TwoPane
 import com.google.accompanist.adaptive.TwoPaneStrategy
-import com.roger.myapplication.helper.StateBirds
 import com.roger.myapplication.helper.getBirdCollection
 import com.roger.myapplication.helper.userInteractionNotification
 
@@ -108,8 +107,6 @@ fun BirdUIChoice(isDetailOpen: Boolean, setIsDetailOpen: (Boolean) -> Unit,
                 Box(
                     modifier = Modifier
                         .userInteractionNotification {
-                            // When interacting with the list, consider the detail to no longer be
-                            // open in the case of resize.
                             setIsDetailOpen(false)
                         }
                 ) {
