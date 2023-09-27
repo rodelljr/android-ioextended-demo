@@ -5,16 +5,19 @@
  This application was built on the Android Studio Canary build Iguana. Along with this version of Android Studio comes Studio Bot, which I used for different aspects of this project. This project also uses kotlin instead of gradle for the build. This was a small challenge when it came to adding implementations. 
 
 Below are a series of screenshots that show this application supporting normal, medium and large screen sizes. Including Foldables
+
 ---
 ### Phone
 <img src="https://github.com/rodelljr/android-ioextended-demo/blob/main/screenshots/phonelist.png" align="left" height="350" />
 <img src="https://github.com/rodelljr/android-ioextended-demo/blob/main/screenshots/phonedetail.png" align="right" height="350" />
 
 ---
+
 ### Tablet
 <img src="https://github.com/rodelljr/android-ioextended-demo/blob/main/screenshots/tabletlistdetail.png" height="600" />
 
 ---
+
 ### Foldable
 <img src="https://github.com/rodelljr/android-ioextended-demo/blob/main/screenshots/foldableopen.png" height="400" />
 <img src="https://github.com/rodelljr/android-ioextended-demo/blob/main/screenshots/foldableclosedlist.png" align="left" height="350" />
