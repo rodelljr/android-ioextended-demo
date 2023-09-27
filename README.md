@@ -7,16 +7,13 @@
 Below are a series of screenshots that show this application supporting normal, medium and large screen sizes. Including Foldables
 
 ---
-### Phone
+### Phone, Tablet & Foldable
+
 <img src="https://github.com/rodelljr/android-ioextended-demo/blob/main/screenshots/phonelist.png" align="left" height="350" />
 <img src="https://github.com/rodelljr/android-ioextended-demo/blob/main/screenshots/phonedetail.png" align="right" height="350" />
 
-
-### Tablet
 <img src="https://github.com/rodelljr/android-ioextended-demo/blob/main/screenshots/tabletlistdetail.png" height="600" />
 
-
-### Foldable
 <img src="https://github.com/rodelljr/android-ioextended-demo/blob/main/screenshots/foldableopen.png" height="400" />
 <img src="https://github.com/rodelljr/android-ioextended-demo/blob/main/screenshots/foldableclosedlist.png" align="left" height="350" />
 <img src="https://github.com/rodelljr/android-ioextended-demo/blob/main/screenshots/foldabledetail.png" align="right" height="350" />
