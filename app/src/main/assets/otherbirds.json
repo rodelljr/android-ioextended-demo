@@ -1,0 +1,28 @@
+[
+	{
+		"state": "United States",
+		"name": "Bald Eagle",
+		"nomenclature": "Haliaeetus leucocephalus",
+		"year": 1782,
+		"picture": "baldeagle",
+		"thumb":"united_states",
+		"description": "The plumage of an adult Bald Eagle is evenly brown with a white head and tail. The tail is moderately long and slightly wedge-shaped. Males and females are identical in plumage coloration, but sexual dimorphism is evident in the species in that females are 25 percent larger than males. The beak, feet and irides are bright yellow. The legs are feather-free, and the toes are short and powerful with large talons. The highly developed talon of the hind toe is used to pierce the vital areas of prey while it is held immobile by the front toes. The beak is large and hooked, with a yellow cere.",
+		"male": "",
+		"female": "Females are similar but are duller overall and have a buff throat and brow without the black border. Both genders have pale legs and feet.",
+		"history1": "The Bald Eagle is the national bird of the United States of America. The founders of the United States were fond of comparing their new republic with the Roman Republic, in which eagle imagery was prominent. On June 20, 1782, the Continental Congress adopted the still-current design for the Great Seal of the United States including a Bald Eagle grasping 13 arrows and a 13-leaf olive branch with its talons.",
+		"history2": ""
+	},
+	{
+		"state": "District of Columbia",
+		"name": "Wood Thrush",
+		"nomenclature": "Hylocichla mustelina",
+		"year": 1938,
+		"picture": "dc_wood_thrush",
+		"thumb":"district_of_columbia",
+		"description": "The Wood Thrush is a medium-sized thrush, with brown upper parts with mottled brown and white underparts.",
+		"male": "",
+		"female": "",
+		"history1": "The Wood Thrush was adopted as the official Washington, DC bird in 1938.",
+		"history2": ""
+	}
+]

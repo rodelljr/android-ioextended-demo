@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IOExtended Compose</string>
+    <string name="state_title">State</string>
+    <string name="nomenclature_title">Nomenclature</string>
+    <string name="year_title">Year</string>
+    <string name="description_title">Traits</string>
+    <string name="male_title">Male Traits</string>
+    <string name="female_title">Female Traits</string>
+    <string name="history_title">State History</string>
+</resources>
